@@ -1,0 +1,9 @@
+D:\programacion\visual studio 2013\Projects\FuenteInfo\FuenteInfo\bin\Debug\FuenteInfo.exe.config
+D:\programacion\visual studio 2013\Projects\FuenteInfo\FuenteInfo\bin\Debug\FuenteInfo.exe
+D:\programacion\visual studio 2013\Projects\FuenteInfo\FuenteInfo\bin\Debug\FuenteInfo.pdb
+D:\programacion\visual studio 2013\Projects\FuenteInfo\FuenteInfo\obj\Debug\FuenteInfo.csprojResolveAssemblyReference.cache
+D:\programacion\visual studio 2013\Projects\FuenteInfo\FuenteInfo\obj\Debug\FuenteInfo.Form1.resources
+D:\programacion\visual studio 2013\Projects\FuenteInfo\FuenteInfo\obj\Debug\FuenteInfo.Properties.Resources.resources
+D:\programacion\visual studio 2013\Projects\FuenteInfo\FuenteInfo\obj\Debug\FuenteInfo.csproj.GenerateResource.Cache
+D:\programacion\visual studio 2013\Projects\FuenteInfo\FuenteInfo\obj\Debug\FuenteInfo.exe
+D:\programacion\visual studio 2013\Projects\FuenteInfo\FuenteInfo\obj\Debug\FuenteInfo.pdb
